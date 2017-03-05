@@ -1,0 +1,7 @@
+rm	清除
+cat	查看文件里的东西
+cd	进入文件
+ls	查看目录里的文件
+mkdir	添加文件夹
+touch	添加文件
+clear	清屏
